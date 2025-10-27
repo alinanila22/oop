@@ -1,9 +1,7 @@
-/.idea
-/.git
-/.venv
-# Игнорировать ВСЕ в корне, кроме homework_6 внутри lesson_6
-/*
-!.gitignore
-!lesson_6/
-lesson_6/*
-!lesson_6/homework_6/
+# Системные файлы
+.DS_Store
+__pycache__/
+*.pyc
+.idea/
+.venv/
+.git/
