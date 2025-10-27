@@ -1,3 +1,13 @@
-/.idea
+# System files
+.DS_Store
+__pycache__/
+*.pyc
+.idea/
+.venv/
 /.git
-/.venv
+
+
+# Allow ONLY homework_6.py
+*
+!.gitignore
+!lesson_6/homework_6.py
